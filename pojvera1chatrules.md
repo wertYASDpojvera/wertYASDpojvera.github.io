@@ -36,3 +36,7 @@
 Запросить список этих слов вы можете у администрации чата (Не рекомендую этого делать, от этих слов может стошнить)
 <div id="5prm2n"></div> 
 За 5 предупреждений - МУТ НА 2 НЕДЕЛИ
+<div id="buttons">
+  <a href="https://t.me/pojvera_forum"><button>Форум</button></a>
+  <a href="https://t.me/pojvera_forum/193"><button>Тема #спам в форуме</button></a>
+</div>
