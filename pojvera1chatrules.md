@@ -1,3 +1,4 @@
+<div id="rules">
 # Правила чата
 <div id="rules1"></div>
 - 1: Не матерится. Исключение: Админы могут матерится в крайних случаях
@@ -39,4 +40,5 @@
 <div id="buttons">
   <a href="https://t.me/pojvera_forum"><button>Форум</button></a>
   <a href="https://t.me/pojvera_forum/193"><button>Тема #спам в форуме</button></a>
+</div>
 </div>
